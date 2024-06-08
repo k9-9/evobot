@@ -9,7 +9,7 @@ env:
   REGISTRY: docker.io
   # github.repository as <account>/<repo>
   IMAGE_NAME: ${{ github.repository }}
-
+ببببب
 jobs:
   build:
     runs-on: ubuntu-latest
